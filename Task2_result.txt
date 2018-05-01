@@ -1,0 +1,14 @@
+Query:computer		Computation Time:23		Retrieved documents:2019
+[0] Doc:23746	Val:0.22050697	url:\www.asu.edu/studentaffairs/reslife/resnet.htm
+[1] Doc:18382	Val:0.19912788	url:\www.asu.edu/lib/systems/newsletter/jannews.htm
+[2] Doc:20327	Val:0.19725585	url:\www.asu.edu/news/research/brickyard_042503.htm
+[3] Doc:4593	Val:0.17555173	url:\www.asu.edu/hr/new_employee/computer_accounts.html
+[4] Doc:20594	Val:0.17520694	url:\www.asu.edu/news/stories/200510/20051024_DNAcomputer.htm
+[5] Doc:14182	Val:0.17293267	url:\www.asu.edu/it/tempe/orient/2005/fac_info.htm
+[6] Doc:14189	Val:0.17149507	url:\www.asu.edu/it/tempe/orient/2005/info.htm
+[7] Doc:14196	Val:0.17049363	url:\www.asu.edu/it/tempe/orient/2005/stf_info.htm
+[8] Doc:25025	Val:0.16899158	url:\www.asu.edu/xed/computerlab/index.html
+[9] Doc:17727	Val:0.16420272	url:\www.asu.edu/lib/resources/db/lnotecsi.htm
+
+
+
